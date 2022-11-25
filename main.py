@@ -22,9 +22,6 @@ days = days_in_month(year , month)
 print(days)
 
 
-#udemy 
-
-
 
 
 
